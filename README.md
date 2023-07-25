@@ -21,7 +21,8 @@ end the program
 import numpy as np
 num1=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 rank=np.linalg.matrix_rank(num1)
-print(rank)```
+print(rank)
+```
 ## Output:
 ![output](/Screenshot%202023-07-25%20101354.png)
 ## Result:
